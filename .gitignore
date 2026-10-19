@@ -1,0 +1,10 @@
+# Compiled binary
+*.exe
+
+# Saved list written at runtime
+CSVSweep_list.dat
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.vscode/
